@@ -1,0 +1,5 @@
+.lecturer-card {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
